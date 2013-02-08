@@ -1,0 +1,7 @@
+C:\Users\Mick Rijneveld\Desktop\blok 3\Kingsvalley\Kingsvalley\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mick Rijneveld\Desktop\blok 3\Kingsvalley\Kingsvalley\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mick Rijneveld\Desktop\blok 3\Kingsvalley\Kingsvalley\bin\x86\Debug\Content\explorer\explorer.xnb
+C:\Users\Mick Rijneveld\Desktop\blok 3\Kingsvalley\Kingsvalley\bin\x86\Debug\Kingsvalley.exe
+C:\Users\Mick Rijneveld\Desktop\blok 3\Kingsvalley\Kingsvalley\bin\x86\Debug\Kingsvalley.pdb
+C:\Users\Mick Rijneveld\Desktop\blok 3\Kingsvalley\Kingsvalley\obj\x86\Debug\Kingsvalley.exe
+C:\Users\Mick Rijneveld\Desktop\blok 3\Kingsvalley\Kingsvalley\obj\x86\Debug\Kingsvalley.pdb

@@ -13,10 +13,12 @@ namespace Kingsvalley
     public class AnimatedSprite
     {
         //Fields
-        private int[] xValue = { 0, 18, 36, 54, 72, 90, 108, 126 };
-        private int i;
-        private float timer = 0;
         private Explorer explorer;
+        private int[] xValue = { 0, 18, 36, 54, 72, 90, 108, 126 };
+        protected int i = 0;
+        private float timer = 0;
+        protected SpriteEffects effect = SpriteEffects.None;
+
 
         //Constructor
         public AnimatedSprite(Explorer explorer)
@@ -48,7 +50,7 @@ namespace Kingsvalley
                                                 Color.White,
                                                 0f,
                                                 Vector2.Zero,
-                                                SpriteEffects.None,
+                                                this.effect,
                                                 0f);
         }
     }
